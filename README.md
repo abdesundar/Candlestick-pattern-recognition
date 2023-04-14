@@ -1,8 +1,5 @@
- # Stock Prediction Flask App
- A web app that predicts the next day open, close, high, and low prices of a stock using 
- a simple linear regression model.
- It can be visited here: https://stock-prediction-flask-app.herokuapp.com/  
- (Note: It may take a few seconds to wake up the Heroku server)
+ # Candlestick Pattern Recognition Flask App
+ 
 
   ## Preview
    [![Preview](./img/sample.png)](https://stock-prediction-flask-app.herokuapp.com/)
